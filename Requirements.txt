@@ -1,0 +1,14 @@
+Requirements:-
+
+Domain:-
+-BaseEntity
+
+-User
+-CustomerUser
+-SupplierUser
+
+-Items
+-CustomerItems
+-SupplierItems
+-ItemImages
+

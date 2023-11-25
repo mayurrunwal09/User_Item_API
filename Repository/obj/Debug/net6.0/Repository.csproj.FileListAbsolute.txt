@@ -1,0 +1,17 @@
+D:\Web Api\UserCustomerProject\Repository\bin\Debug\net6.0\Repository.deps.json
+D:\Web Api\UserCustomerProject\Repository\bin\Debug\net6.0\Repository.runtimeconfig.json
+D:\Web Api\UserCustomerProject\Repository\bin\Debug\net6.0\Repository.dll
+D:\Web Api\UserCustomerProject\Repository\bin\Debug\net6.0\Repository.pdb
+D:\Web Api\UserCustomerProject\Repository\bin\Debug\net6.0\Domain.dll
+D:\Web Api\UserCustomerProject\Repository\bin\Debug\net6.0\Domain.pdb
+D:\Web Api\UserCustomerProject\Repository\obj\Debug\net6.0\Repository.csproj.AssemblyReference.cache
+D:\Web Api\UserCustomerProject\Repository\obj\Debug\net6.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\Web Api\UserCustomerProject\Repository\obj\Debug\net6.0\Repository.AssemblyInfoInputs.cache
+D:\Web Api\UserCustomerProject\Repository\obj\Debug\net6.0\Repository.AssemblyInfo.cs
+D:\Web Api\UserCustomerProject\Repository\obj\Debug\net6.0\Repository.csproj.CoreCompileInputs.cache
+D:\Web Api\UserCustomerProject\Repository\obj\Debug\net6.0\Repository.csproj.CopyComplete
+D:\Web Api\UserCustomerProject\Repository\obj\Debug\net6.0\Repository.dll
+D:\Web Api\UserCustomerProject\Repository\obj\Debug\net6.0\refint\Repository.dll
+D:\Web Api\UserCustomerProject\Repository\obj\Debug\net6.0\Repository.pdb
+D:\Web Api\UserCustomerProject\Repository\obj\Debug\net6.0\Repository.genruntimeconfig.cache
+D:\Web Api\UserCustomerProject\Repository\obj\Debug\net6.0\ref\Repository.dll
